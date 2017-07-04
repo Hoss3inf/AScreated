@@ -13,4 +13,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+// TODO: 07/04/2017 this todo is added to first task
 //// TODO: 07/04/2017 @mojtaba-al define the folan 
